@@ -7,3 +7,4 @@ All the programs are written in Java Language.
 1. Bubble Sort
 2. Improved version of the Bubble Sort
 3. Merge Sort
+4. Occurence of character in a String(3 ways)
